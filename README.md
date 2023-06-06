@@ -9,3 +9,5 @@ imagio 2.23.0
 
 Nvidia CUDA 11.2
 cudnn for cuda 11.2 (easy to google)
+
+In order to upload a dataset and a pre-trained model, it is enough to uncomment the code fragments where they are loaded from Google drive
